@@ -21,7 +21,7 @@
 //#include <timerfix>
 #include <xml>
 
-// GRG Server main include
+// GRG Server main includevv
 #if defined COMPILE_SERVER
 	#include <grgserver\main_server>
 #else
